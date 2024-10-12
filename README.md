@@ -8,6 +8,10 @@ This project focuses on solving the **Frozen Lake environment** using reinforcem
 
 The **Frozen Lake** environment is often used to demonstrate dynamic programming methods like **Value Iteration** and **Q-Learning** in reinforcement learning.
 
+<img src="https://github.com/Arghidehsayna/Frozen-Lake/blob/master/Pic.png?raw=true" alt="Description of the image" width="400px">
+
+
+
 ## Files in the Repository
 
 - **Frozen_Lake_anaconda_AI.ipynb**: This Jupyter Notebook contains the implementation of the Frozen Lake project, including the environment setup, algorithm explanation, and results.
